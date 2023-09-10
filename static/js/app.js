@@ -4,4 +4,4 @@ setTimeout(function()
 {
     message_timeout.style.display = "none";
 
-},5000);
+},3000);
